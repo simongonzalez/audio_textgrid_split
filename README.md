@@ -6,7 +6,8 @@ Copyright 08.06.2016 Simon Gonzalez
 email: s.gonzalez@griffith.edu.au
 
 # audio_textgrid_split
-Split audio and TextGrid files in Praat
+Split audio and TextGrid files in Praat.
+The main functionality has been on files used for socio-phonetic research.
 
 This script splits WAV files and TextGrids into equal sections.
 The script can be used in the following cases:
