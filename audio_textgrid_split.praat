@@ -9,6 +9,7 @@
 # Copyright 08.06.2016 Simon Gonzalez
 # email: s.gonzalez@griffith.edu.au
 
+#Setting all parameters before running the script
 #beginning of form-------------------------------------------------------------
 	form File Divisions
 		comment I - SELECT TEXTGRID AND/OR SOUND FILE (from the object window)
