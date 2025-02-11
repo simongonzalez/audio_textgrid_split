@@ -7,7 +7,7 @@
 #
 # This script is distributed under the GNU General Public License.
 # Copyright 08.06.2016 Simon Gonzalez
-# email: s.gonzalez@griffith.edu.au
+# email: simondariogonzalez@gmail.com
 
 #Setting all parameters before running the script
 #beginning of form-------------------------------------------------------------
